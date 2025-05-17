@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Marek Olbrys
+ORG:Marek Olbrys Ministry;
+TITLE:Głosiciel Ewangelii
+TEL;TYPE=CELL:+49 123 456 789
+EMAIL;TYPE=INTERNET:kontakt@olbrys.de
+URL:https://olbrys.de
+ADR;TYPE=WORK:;;Bahnhofstr. 1;Jestetten;;79798;Germany
+NOTE:Jestem Marek Olbrys. Przez swoje życie, słowo i działanie staram się wskazywać ludziom na Boga Ojca i Pana Jezusa Chrystusa. Pomagam tym, którzy szukają nadziei, prawdy i życia w świetle Ewangelii. Zapraszam do kontaktu.
+END:VCARD
